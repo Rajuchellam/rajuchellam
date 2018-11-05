@@ -1,1 +1,6 @@
 /* your styles go here */
+
+.post-thumbnail-bio img {
+  width: 20%;
+  margin-bottom: 10px;
+}
